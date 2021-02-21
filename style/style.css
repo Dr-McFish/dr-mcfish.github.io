@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	background: #2f323a;
+	font-family: sans-serif;
+	font-size: large;
+	color:#d3d7fa;
+}
+body a{
+	color: #8565d1;
+	text-decoration: none;
+}
+body a:hover {
+	color: #ab9cec;
+}
+
+.content {
+	margin: 0 3.5%;
+}
+
+.uni_fish {
+	color: #d3d7fa;
+}
